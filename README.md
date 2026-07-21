@@ -4,8 +4,8 @@ A full-stack task management application built with React, Node.js, Express, and
 
 ## 🚀 Live Demo
 
-- **Frontend URL**: [To be deployed]
-- **Backend URL**: [To be deployed]
+- **Frontend URL**: 
+- **Backend URL**: 
 
 ## 📋 Table of Contents
 
@@ -57,7 +57,7 @@ A full-stack task management application built with React, Node.js, Express, and
 - React Router v6
 - Axios for API calls
 - React Hot Toast for notifications
-- CSS3 / Tailwind CSS (optional)
+-  Tailwind CSS 
 
 ### Backend
 - Node.js
@@ -68,7 +68,7 @@ A full-stack task management application built with React, Node.js, Express, and
 
 ### Tools
 - Git for version control
-- Docker (optional)
+- Docker 
 
 ## 📦 Prerequisites
 
@@ -84,5 +84,4 @@ Before running this project, make sure you have:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/task-management-system.git
-cd task-management-system
+git clone https://github.com/NISHMI077Y/Koncepthive.git
